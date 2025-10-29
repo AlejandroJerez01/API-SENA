@@ -1,8 +1,3 @@
-# API-SENA
-
-
-# API-SENA
-
 # Conexión a mongo Atlas
 
 MONGO_URI=mongodb+srv://usuario:password@cluster0.abcd123.mongodb.net/api_sena?retryWrites=true&w=majority
